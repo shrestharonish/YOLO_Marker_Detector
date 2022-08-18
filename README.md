@@ -1,5 +1,5 @@
 # YOLO_Marker_Detector
-An custom object detector using YOLOV3 Darknet
+An custom object detector using YOLOV3 Darknet. <br>
 This repo contains a code inside a main folder which you can run as well by cloning it in your own PC
 
 ## Requirements
